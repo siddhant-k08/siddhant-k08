@@ -33,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant-k08&show_icons=true&locale=en&layout=compact" alt="siddhant-k08" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhant-k08&show_icons=true&locale=en" alt="siddhant-k08" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant-k08&" alt="siddhant-k08" /></p>
